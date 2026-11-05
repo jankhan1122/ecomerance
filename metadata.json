@@ -1,0 +1,6 @@
+{
+  "name": "TAIMOOR Online Shopping",
+  "description": "Daraz & Amazon-inspired professional e-commerce store with flash sales, product catalog, cart, multi-gateway checkout, live order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
